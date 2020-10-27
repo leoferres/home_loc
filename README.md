@@ -18,7 +18,8 @@ that we used in our paper:
 
 Luca Pappalardo, Leo Ferres, Manuel Sacasa, Ciro Cattuto, Loreto
 Bravo. 2020. An Evaluation of Home Location Identification
-Algorithms\\For Mobile Phone Datasets Using "Ground Truth", arxiv
+Algorithms For Mobile Phone Datasets Using "Ground Truth". 
+https://arxiv.org/abs/2010.08814
 
 They all take, as input, a dataframe (`tframe`) of CD-like records of
 the form
